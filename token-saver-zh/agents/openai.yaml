@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Token Saver（中文版）"
+  short_description: "极致省token+缓存命中。零废话、零验证、禁重复读。统一输出格式最大化KV缓存复用。"
+  default_prompt: "省 token。极度简洁。不废话、不解释、不验证。统一输出格式提高缓存命中。"

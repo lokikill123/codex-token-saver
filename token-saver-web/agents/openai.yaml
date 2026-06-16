@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Token-Saver Web"
+  short_description: "任何网站操作极致省token。一条路径到底、零盲试。"
+  default_prompt: "操作网站：导航走Shell+claimTab，查页面走一次evaluate，上传走SendKeys。var绑定。一次失败即停。"

@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Token-Saver Chrome"
+  short_description: "Chrome操作极致省token。复用连接、var绑定、一次成功。"
+  default_prompt: "Chrome操作用var绑定。导航走PowerShell。上传用SendKeys。一次失败即停不重试。不读文档。"
